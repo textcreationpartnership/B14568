@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Maior. Orders set downe for Blackewelhall.</title>
+            <author>City of London (England). Lord Mayor.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14568</idno><idno type="EEBO-CITATION">99891307</idno>
+  <idno type="VID">185517</idno>
+  <idno type="EEBO-PROQUEST">2240906854</idno>
+  
+            <idno type="STC">STC 16719</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[64]</idno>
+            <idno type="STC">ESTC S102910</idno>
+            <idno type="PROQUEST">ocm99891307</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891307e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14568)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185517)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[64])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Maior. Orders set downe for Blackewelhall.</title>
+                  <author>City of London (England). Lord Mayor.</author>
+                  <author>City of London (England). Court of Aldermen.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John W[indet, printer to the Hon]ourable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1604]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Imperfect: missing print in printer's name.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185517:1"/>
+            <pb facs="tcp:185517:1"/>
+            <head>
+               <figure>
+                  <figDesc>English royal blazon</figDesc>
+               </figure> By the Maior. Orders set downe for Blackewelhall. <figure>
+                  <figDesc>blazon of the City of London, consisting of a shield bearing the cross of St. George (patron saint of England) with a sword (emblem of the martyrdom of St. Paul, patron saint of London) in the first quarter of the shield</figDesc>
+               </figure>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by Common Councell holden in the Chamber of the Guildhall of the Citie of Lon<g ref="char:EOLhyphen"/>don, before the right honourable the Lord Maior of the same Citie, and the right worship<g ref="char:EOLhyphen"/>full the Aldermen his brethren, and the Commons in the same common councell assembled, on the ninth day of May, in the seuen and thirtieth yeare of the raigne of our late Soue<g ref="char:EOLhyphen"/>raigne Lady Queene <hi>Elizabeth.</hi> One Acte was made and agreed vppon, the tenor whereof hereafter followeth in these wordes. Whereas diuers good lawes, statutes, and ordinances, haue beene heretofore deuised and made, for the true and perfect making of clothes, and other the commodities hereafter mentioned, and for the viewing and sear<g ref="char:EOLhyphen"/>ching of the same: And yet by reason that a great part of the cloathes and commodities brought to the Citie of London to be solde, haue not beene brought to the open Market place, or places appoynted for that pur<g ref="char:EOLhyphen"/>pose: But haue beene bought and solde, in secret and priuate houses, and places, by such as haue transported and vented them, in forraine partes beyonde the seas, or retailed them in their shoppes at home, or otherwise at their pleasure: The saide cloa<g ref="char:EOLhyphen"/>thes and other commodities neither haue beene, or could bee conueniently viewed and searched, according to the true meaning of the saide Lawes, statutes, and ordinances, and thereby as experience hath set forth, much deceitfull and euill cloth, and other commodities, haue not onely beene vttered, solde, and transported, from this Citie of London, to forraine partes out of this Realme, to the great discredite of the saide Citie and whole Realme, and the commodities thereof, but also retayled and vitered within the same Citie, to the great offence, losse, and preiudice of many his Maiesties louing Subiectes, the wearers of the same. For remedie whereof: Be it enacted, ordained, and established, by the authoritie of this Common councel, in maner and forme hereafter following. That is to say, that all, and all maner of clothes, Ketsies, Frisies, Rugges, Bayes, Cottons, and stockings, and all other commodities made of wool, or mixt with Wool, or of flare, towe, or hempe, or mixt with any of them, or of silke, crewel, or threed, or mixt with them, or any of them, and which are or shall be made, wrought, woven or knit within his Maiesties dominions or any the partes thereof. And also all Dowlasse, Lockeram, and Linnen clothes made or to be made in Britaine, in the partes beyond the seas, which shall be brought to this citie of London, or the liberties, of the same, or to any part thereof, be it bought by forraine bargaine, or to be solde at any time from and after the tenth day of Iune next, shall be brought to the common market place, or places thereunto appointed, in, at, or neere Blackewelhall, within the said citie of London, and there in the same Market place or places, or some of them, put to sale and absolutely solde, and not else where within the saide citie of London, or the Liberties thereof, vpon paine to loose and forfaite, all and every the cloth, clothes, wares, marchandises, and other the said commodities that shall be vented, solde or vttered, otherwise then in maner and forme aforesaid, or the value thereof, Except alwayes that all such Hampshire Kersies as hereafter shall bee bought in the Market of Southwarke in the countie of Surrey, shall and may bee brought from thence into the citie of London or liber<g ref="char:EOLhyphen"/>ties thereof, to the house of him or them that hath or shall so buy the same. So that such duties be paide for the hallage thereof vnto the clearke of Blackewelhall, as if the same had beene brought to the saide Market of Blackewelhall: and except also that all such cloth and clothes, and other the commodities aforesaide, as shall at anie time or times hereafter bee bought vpon any former bargaines, to be made before they shall be brought vnto the saide citie of London, and which shall bee afterwards brought to the saide common market place or places, or any of them, and there presented, registred, and the duties of Market roome paide, and a note in writing receyued from the clearke for the same duties which shall bee delivered to him or them that so bought the foresaide clothes and other commodities before they or any of them shall bee pitched or harboured in any other place or places, within the saide citie of London, or Liberties thereof, and also except all such cloth and clothes or other commo<g ref="char:EOLhyphen"/>dities aforesaid, which shalbe caried to any knowne Marchants house, and there laid downe without his knowledge, if such Marchant, or any for him shall make it knowne to the clearke of Blackewel hall, within three dayes next following, and then pay the duties due for the same, and cause the same to bee registred as aforesaide. And for that all and everie person and persons may take knowledge of the lawfull market places in the saide Citie of London, forselling and buying of all the cloth, clothes, Wares, and other commodities aboue specified. It is hereby notified, declared, ordained and enacted by the autho<g ref="char:EOLhyphen"/>ritie aforesaid, that Blackewelhall within the saide Citie of London, and the roomes therein or neere thereunto adioyning now or hereafter to be vsed a common market place or places, for the saide cloth, clothes, wares, and other commodities are and shall bee the ordained, assigned and appointed Market place and places, for all forreiners to sell every of the said severall cloth, clothes, wares and commodities in maner as thereunto heretofore, and now they haue beene and are accustomablie vsed and not elsewhere. And it is also enacted, ordained, and declared, by the authoritie aforesaide, that from the said tenth day of Iune next, the lawfull times for selling and buying in any of the saide-markets, or market place or places, shall be and beginne weeke<g ref="char:EOLhyphen"/>ly on everie Thursday at one of the clocke in the after-noone, and continue vntill foure of the clocke of the same after-noone, and on every Friday at eight of the clocke in the fore-none, and continue vntill eleven of the clocke in the same fore-noone, and shal likewise beginne in the after-noone of the same Friday, at one of the clocke, and continue vntill foure of the clocke of
+<pb facs="tcp:185517:2"/>
+               <pb facs="tcp:185517:2"/>the same Friday in the after-noone, and shal beginne againe everie Saturday, at eight of the clocke in the fore-noone, and shal continue vntill eleuen of the clocke in the fore-noone of the same day, and that the saide houres hereby appointed and limited for the beginning and ending of every of the said market times shal be known by the ringing of the market bell in Blackewel hall aforesaide appoynted for that vse and purpose. This to be helde and continued weekely euery weeke through the yeare, from yeare to yeare, (the twelue dayes in Christmas onely excepted.) And that all and euery such cloth, clothes, and other com<g ref="char:EOLhyphen"/>modities before specified, as shall be there put to sale at any other time or times, then is afore limited shall be forfeyted. And it is further ordayned and enacted, that from and after the said tenth day of Iune next, no manner person or persons not beeing free of the sayde Citie, shall by himselfe, or any other for him, or by his meanes or practise, bargaine or sell in any place or places within the Liberties of this Citie, out of the saide assigned market place or places any of the saide Clothes, Kersies, or other commodities, nor shall buy any of the same within any the saide assigned Market place or places, to the intent to sell the same a<g ref="char:EOLhyphen"/>gaine in anie of the saide assigned Market places, or elsewhere, within the said Citie or liberties thereof, vpon pain to forfeit and loose for euery such offence the cloath, cloathes, Kersies, and other the saide commodities so bought or solde, or the value there<g ref="char:EOLhyphen"/>of. And also that euery person and persons being free of this Citie, which shall harbour or receiue the saide cloath, clothes, or commodities so bought or solde contrary to the tenor of this Acte, and the true meaning thereof, shall forfeyte and loose his freedome, and not to be thereunto readmitted but by the Lord Maior, Aldermen, and Common Counsell of the saide Citie for the time being. And it is likewise hereby further enacted and ordained, that no person or persons now free, or hereaf<g ref="char:EOLhyphen"/>ter to bee made free, of the saide Citie, shall from and after the saide tenth day of Iune next, sell, or cause to be solde, any cloath, clothes, Kersies, or any other the commodities aforenamed, either in his owne name, or for, or in the name of any other within the saide common Markets, or any of them, vpon <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> to forfeite and loose euery such cloth, clothes, and other commodities so solde, or the value thereof. And to the intent to cut off the great fraude and abuse vsed by sundry persons beeing free of this Citie, and others by forraine buying and selling, contrary to the auncient lawes, customes and liberties of the same Cittie, and for the better finding out of the same fraudulent dealings. It is further enacted by the authoritie aforesaide, that the Clearke or Officer for the collecting of duties due for the harbouring and pitching of cloath at the saide Market of Blackwell hall, and places aforesaide shall keepe a Register Booke weekely through the whole yeare, of the names and surnames of the saide clothmen and free men, owners of such clothes and Kersies, and other commodities, as shall be bought vpon any former bar<g ref="char:EOLhyphen"/>gaine, before they shall be brought to the said Citie, and which shall be brought to the said Market place or places, according to the tenor of this Acte, and shal Register the true number of such clothes, Kersies, &amp; other commodities, together with the names and surnames of the saide free-men, or other buyers and sellers of the same: Vpon paine that the said officer shall for not kee<g ref="char:EOLhyphen"/>ping the saide booke truly and faithfully as afore-said, and for not giuing a note in writing, for the duties paide to him or them that shall pay the same according to the true meaning <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> and loose his saide office. And if the owner of the said goods or his Carrier, be they forreyners or free, shall deny to the saide officer to giue the true names and surnames of the buyers and sellers, with the iust number of all such cloathes and Kersies, and other commodities aforesaide, so brought to the Hall aforesaide. Then it is hereby further ordained and enacted, that the saide buyers and sellers whether they be free or for<g ref="char:EOLhyphen"/>reyners shall haue no benefit of the exception aboue specified in this present Act, concerning former bargaines, but shal be bound to put to sale the same cloath, clothes and commodities aforesaide in Blackewel hall Market, or in other the place or places ap<g ref="char:EOLhyphen"/>poynted as aforesaide, as though there had beene no former bargaine of the same clothes or other commodities. And for the beter reformation of the offences and abuses, purposed to be reformed and amended, by this present Acte or Common councell, and the more readie execution of the same. It is finally enacted, ordained, &amp; established by the authoritie aforesaid, that all, and all maner cloath, clothes, wares, commodities, summe and sums of money, and other things whatsoeuer, that shall be forfeited by vertue of this Act shal be obtained, leuied, or recouered, either by seizure, or else by action of debt, bill, plaint, or informati<g ref="char:EOLhyphen"/>on, in the name of the Chamberlaine of the saide Citie, for the time being, in the Kinges Maiesties Court holden in the cham<g ref="char:EOLhyphen"/>ber of the Guildhall of the saide Citie, before the Maior and Aldermen of the same, for the time being, wherein no Essoigne, por<g ref="char:EOLhyphen"/>tection, or wager of lawe shall be admitted or allowed. And that all the paines, penalties and forfeitures, to bee had or recoue<g ref="char:EOLhyphen"/>red by vertue of this Act, the charges of recoverie deducted, shall be devided into three equall partes, whereof one thirde part shall bee imployed to the Maior and Comminaltie of the same citie, towards the maintenance and reparations of Black<g ref="char:EOLhyphen"/>welhall aforesaid: One other third part to the vse of the poore children of Christs hospitall within the said citie. And the other third part to him that will sue for the same, being a free-man.</p>
+            <p>Now to the end that all persons whom the saide Act may in any sort concerne, may take knowledge thereof, and thereby may the rather avoide the danger of the penalties therein contained. The right honorable the Lord Maior of the citie afore<g ref="char:EOLhyphen"/>said, and the right worshipfull the Aldermen his brethren, haue thought good by Proclamation to publish the same.</p>
+            <closer>
+               <dateline>Dated at the Guildhall of the citie of London, <date>the nine and twentith day of November in the second yeere of the raigne of our Sove<g ref="char:EOLhyphen"/>raigne Lord Iames, by the grace of God, King of Great Britaine, France and Ireland, defender of the Faith.</date>
+               </dateline>
+               <lb/>
+               <hi>God saue the King.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Iohn W<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ourable Citie of London.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
